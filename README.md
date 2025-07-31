@@ -1,4 +1,4 @@
-# Certificate Parser GUI
+# Certificate Parser
 
 Программа для анализа SSL-сертификатов
 
